@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 type: git
-repository: https://github.com/yuhaoCodeDepot/yuhaoCodeDepot.github.io  #你的仓库地址
+repository: https://github.com/Githaos/githaos.github.io  #你的仓库地址
 branch: main #绑定的仓库分支
